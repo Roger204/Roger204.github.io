@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RogerR Blog"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "RogerR"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "RogerR"
+  avatar           : "/assets/images/profile_RoR.png"
   bio              : "Do what you love to do."
-  location         : "Somewhere"
+  location         : "Barcelona"
   email            :
   links:
     - label: "Email"
@@ -290,3 +290,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      read_time: true
