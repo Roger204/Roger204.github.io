@@ -68,9 +68,9 @@
 {% endif %}
 
 {% if page_large_image %}
-  <meta property="og:image" content="{{ page_large_image }}">
+  <meta property="og:image" content="{{ seo_description }}">
 {% elsif page_teaser_image %}
-  <meta property="og:image" content="{{ page_teaser_image }}">
+  <meta property="og:image" content="{{ seo_description }}">
 {% endif %}
 
 {% if site.twitter.username %}
