@@ -32,4 +32,4 @@ Even more; after further research I was able to identify that only the 3 last by
 
 ![Emulating Tag](/assets/images/20230106_UID.png){: style="display: block; margin: 0 auto"}
 
-I already advised both the alarm manufacturer and the system integrator, and they indicated that the security would be enchanced :).
+I already advised both the alarm manufacturer and the system integrator, and they indicated that the security would be enhanced :).
