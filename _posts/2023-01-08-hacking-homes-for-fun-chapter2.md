@@ -2,9 +2,6 @@
 title:  "Hacking Homes For Fun: Chapter 2 - The Alarm Tag"
 ---
 
-<a href="/assets/pdfs/Tema1.pdf" target="_blank">Ver PDF</a>
-
-
 Nowadays most of the home alarms use a contactless tag to activate/deactivate the alarm. Those tags bring cryptographic functionalities; however, I want to verify if they are really used. As an example, the remote control of [Chapter1](/hacking-homes-for-fun-Chapter1) had anti-replay capabilities which were not used by the system integrator.
 
 I started analyzing the type of tag of the home alarm, this can be easily done using an NFC enabled smartphone and the [NXP Tag Info](https://play.google.com/store/apps/details?id=com.nxp.taginfolite) application. The tag is an ISO15693 with cryptographic capabilities. 
@@ -36,3 +33,8 @@ Even more; after further research I was able to identify that only the 3 last by
 ![Emulating Tag](/assets/images/20230106_UID.png){: style="display: block; margin: 0 auto"}
 
 I already advised both the alarm manufacturer and the system integrator, and they indicated that the security would be enhanced :).
+
+<a href="/assets/pdfs/Tema1.pdf" target="_blank">Tema1</a>
+<a href="/assets/pdfs/Tema2.pdf" target="_blank">Tema2</a>
+<a href="/assets/pdfs/Tema3.pdf" target="_blank">Tema3</a>
+<a href="/assets/pdfs/Tema4.pdf" target="_blank">Tema4</a>
