@@ -2,7 +2,7 @@
 title:  "Hacking Homes For Fun: Chapter 2 - The Alarm Tag"
 ---
 
-<a href="/assets/pdfs/GUIA_ESTUDI_AGENTRURAL.pdf" target="_blank">Ver PDF</a>
+<a href="/assets/pdfs/Tema1.pdf" target="_blank">Ver PDF</a>
 
 
 Nowadays most of the home alarms use a contactless tag to activate/deactivate the alarm. Those tags bring cryptographic functionalities; however, I want to verify if they are really used. As an example, the remote control of [Chapter1](/hacking-homes-for-fun-Chapter1) had anti-replay capabilities which were not used by the system integrator.
