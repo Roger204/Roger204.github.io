@@ -38,3 +38,26 @@ I already advised both the alarm manufacturer and the system integrator, and the
 <a href="/assets/pdfs/Tema2.pdf" target="_blank">Tema2</a>
 <a href="/assets/pdfs/Tema3.pdf" target="_blank">Tema3</a>
 <a href="/assets/pdfs/Tema4.pdf" target="_blank">Tema4</a>
+<a href="/assets/pdfs/EspecificTema1.pdf" target="_blank">Tema Spec 1</a>
+<a href="/assets/pdfs/EspecificTema2.pdf" target="_blank">Tema Spec 2</a>
+<a href="/assets/pdfs/EspecificTema3.pdf" target="_blank">Tema Spec 3</a>
+<a href="/assets/pdfs/EspecificTema4.pdf" target="_blank">Tema Spec 4</a>
+<a href="/assets/pdfs/EspecificTema5.pdf" target="_blank">Tema Spec 5</a>
+<a href="/assets/pdfs/EspecificTema6.pdf" target="_blank">Tema Spec 6</a>
+<a href="/assets/pdfs/EspecificTema7.pdf" target="_blank">Tema Spec 7</a>
+<a href="/assets/pdfs/EspecificTema8.pdf" target="_blank">Tema Spec 8</a>
+<a href="/assets/pdfs/EspecificTema9.pdf" target="_blank">Tema Spec 9</a>
+<a href="/assets/pdfs/EspecificTema10.pdf" target="_blank">Tema Spec 10</a>
+<a href="/assets/pdfs/EspecificTema11.pdf" target="_blank">Tema Spec 11</a>
+<a href="/assets/pdfs/EspecificTema12.pdf" target="_blank">Tema Spec 12</a>
+<a href="/assets/pdfs/EspecificTema13.pdf" target="_blank">Tema Spec 13</a>
+<a href="/assets/pdfs/EspecificTema14.pdf" target="_blank">Tema Spec 14</a>
+<a href="/assets/pdfs/EspecificTema15.pdf" target="_blank">Tema Spec 15</a>
+<a href="/assets/pdfs/EspecificTema16.pdf" target="_blank">Tema Spec 16</a>
+<a href="/assets/pdfs/EspecificTema17.pdf" target="_blank">Tema Spec 17</a>
+<a href="/assets/pdfs/EspecificTema18.pdf" target="_blank">Tema Spec 18</a>
+<a href="/assets/pdfs/EspecificTema19.pdf" target="_blank">Tema Spec 19</a>
+<a href="/assets/pdfs/EspecificTema20.pdf" target="_blank">Tema Spec 20</a>
+<a href="/assets/pdfs/EspecificTema21.pdf" target="_blank">Tema Spec 21</a>
+
+
