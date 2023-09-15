@@ -34,6 +34,7 @@ Even more; after further research I was able to identify that only the 3 last by
 
 I already advised both the alarm manufacturer and the system integrator, and they indicated that the security would be enhanced :).
 
+<a href="/assets/pdfs/GUIA_ESTUDI_AGENTRURAL_paginesOk.pdf" target="_blank">Tema General</a>
 <a href="/assets/pdfs/Tema1.pdf" target="_blank">Tema1</a>
 <a href="/assets/pdfs/Tema2.pdf" target="_blank">Tema2</a>
 <a href="/assets/pdfs/Tema3.pdf" target="_blank">Tema3</a>
